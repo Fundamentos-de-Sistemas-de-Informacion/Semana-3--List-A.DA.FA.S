@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\bin\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.exe
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\bin\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.deps.json
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\bin\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\bin\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.dll
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\bin\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.pdb
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana_3__List_Add_DeleteAll_FindAll_Sort.Form1.resources
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.dll
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\refint\Semana-3--List-Add,DeleteAll,FindAll,Sort.dll
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.pdb
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\Semana-3--List-Add,DeleteAll,FindAll,Sort.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\Semana-3--List-Add,DeleteAll,FindAll,Sort\Semana-3--List-Add,DeleteAll,FindAll,Sort\obj\Debug\net6.0-windows\ref\Semana-3--List-Add,DeleteAll,FindAll,Sort.dll
